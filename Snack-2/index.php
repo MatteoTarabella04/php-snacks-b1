@@ -6,7 +6,7 @@ Con un form passare come parametri GET name, mail e age e verificare (cercando i
 
 <?php
 
-var_dump($_GET);
+/* var_dump($_GET); */
 
 $name = $_GET['name'];
 $mail = $_GET['mail'];
